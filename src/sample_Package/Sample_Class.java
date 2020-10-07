@@ -6,6 +6,7 @@ public class Sample_Class {
 	{
 	System.out.println("Java Hello World");
 	System.out.println("Sample Program is created Successfully.....!!");
-	}
+System.out.println("Second commit.....!!");	
+}
 
 }
